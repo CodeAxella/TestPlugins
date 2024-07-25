@@ -1,0 +1,44 @@
+[
+    {
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CodeAxella/TestPlugins",
+        "fileSize": 300758,
+        "status": 1,
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime",
+            "Torrent"
+        ],
+        "version": 180,
+        "internalName": "CineStream",
+        "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
+        "url": "https://raw.githubusercontent.com/CodeAxella/TestPlugins/builds/CineStream.cs3",
+        "name": "CineStream"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://samehadaku.world&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CodeAxella/TestPlugins",
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 23,
+        "internalName": "Samehadaku",
+        "url": "https://raw.githubusercontent.com/CodeAxella/TestPlugins/builds/Samehadaku.cs3",
+        "name": "Samehadaku"
+    }
+]
