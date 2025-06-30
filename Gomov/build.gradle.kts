@@ -1,12 +1,9 @@
 import org.jetbrains.kotlin.konan.properties.Properties
 
 // use an integer for version numbers
-version = 35
+version = 31
 
 android {
-    buildFeatures {
-        buildConfig = true
-    }
     defaultConfig {
         val properties = Properties()
         properties.load(project.rootProject.file("local.properties").inputStream())
@@ -19,7 +16,7 @@ cloudstream {
     // All of these properties are optional, you can safely remove them
 
     description = "Includes: DutaMovie, Ngefilm, Nodrakorid, Multiplex, Pusatfilm"
-    authors = listOf("Hexated", "TeKuma25")
+    authors = listOf("Hexated")
 
     /**
      * Status int as the following:
